@@ -39,7 +39,7 @@ input,textarea {
 /*清除浮动*/
 .clearfix::before,
 .clearfix::after {
-	content: ".",
+	content: ".";
 	display: block;
 	height: 0;
 	visibility: hidden;
